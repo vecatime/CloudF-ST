@@ -17,7 +17,7 @@ cd CloudflareST
 Download the CloudflareST
 
 ```bash
-wget -N https://github.com/vecatime/CloudF-ST/archive/refs/tags/CloudflareST.tar.gz
+wget https://github.com/vecatime/CloudF-ST/archive/refs/tags/CloudflareST.tar.gz
 ```
 
 unzip 
