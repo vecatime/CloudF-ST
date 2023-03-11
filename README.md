@@ -17,13 +17,13 @@ cd CloudflareST
 Download the CloudflareST
 
 ```bash
-wget -N https://github.com/XIU2/CloudflareSpeedTest/releases/download/v2.2.2/CloudflareST_linux_386.tar.gz
+wget -N https://github.com/vecatime/CloudF-ST/archive/refs/tags/CloudflareST.tar.gz
 ```
 
 unzip 
 
 ```bash
-tar -zxf CloudflareST_linux_386.tar.gz
+tar -zxf CloudflareST.tar.gz
 ```
 
 grant execute permission
