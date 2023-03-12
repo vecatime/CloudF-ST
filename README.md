@@ -32,10 +32,6 @@ grant execute permission
 chmod +x CloudflareST
 ```
 
-
-```bash
-sudo apt install docker-ce
-```
 2. run CloudflareST
 
 run (without arguments)
